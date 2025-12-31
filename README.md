@@ -25,6 +25,3 @@
 
 - [Loot Box System - Open packs to pull NFTs, tokens, and rare items]  
 - [Token Pack Market – Category-based packs with Gacha mechanics for tokens and on-chain assets.]  
-- [Feature 3: e.g. Decentralized governance with native token]  
-- [Feature 4: e.g. Security with timelocks and pause control]  
-- [Feature 5: e.g. Gas-efficient design for BNB Smart Chain]  
